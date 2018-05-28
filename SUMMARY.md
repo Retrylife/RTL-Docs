@@ -1,4 +1,4 @@
 # Table of contents
 
-* Initial page
+* [RetryLife Docs](README.md)
 
